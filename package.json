@@ -1,0 +1,30 @@
+{
+  "name": "himma-finance-case",
+  "version": "0.1.0",
+  "private": true,
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint .",
+    "test": "node --import tsx --test test/*.test.mjs test/*.test.ts"
+  },
+  "dependencies": {
+    "next": "15.3.1",
+    "openai": "4.98.0",
+    "react": "19.0.0",
+    "react-dom": "19.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "22.15.3",
+    "@types/react": "19.0.12",
+    "@types/react-dom": "19.0.4",
+    "eslint": "9.25.1",
+    "eslint-config-next": "15.3.1",
+    "tsx": "^4.21.0",
+    "typescript": "5.8.3"
+  }
+}
