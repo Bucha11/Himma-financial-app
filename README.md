@@ -4,9 +4,8 @@ Personal finance dashboard built around the supplied take-home dataset. The app 
 
 ## Demo
 
-<!-- TODO: replace with a live link, screenshot, or short clip -->
+<img width="1861" height="884" alt="finance" src="https://github.com/user-attachments/assets/ac163710-1230-41c6-9dd3-730e346622f1" />
 
-_Demo placeholder — add a screenshot, GIF, or hosted URL here._
 
 ## Setup (under 2 minutes)
 
